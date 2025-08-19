@@ -23,10 +23,3 @@ Python-разработчик с фокусом на бэкенд. Люблю о
 ![Nginx](https://img.shields.io/badge/-Nginx-2496ED?logo=nginx&logoColor=black&labelColor=white&logoSize=amg)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-2496ED?logo=gunicorn&logoColor=black&labelColor=white&logoSize=amg)
 ![Git](https://img.shields.io/badge/-Git-2496ED?logo=git&logoColor=black&labelColor=white&logoSize=amg)
-
-### 🔥 В фокусе внимания
-- Микросервисная архитектура
-- Асинхронное программирование
-- Тестирование (pytest, unittest)
-- Инфраструктура, CI/CD процессы
-- Алгоритмы и структцры данных
