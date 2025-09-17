@@ -3,10 +3,6 @@
 ### 👨‍💻 Обо мне  
 Python-разработчик с фокусом на бэкенд. Люблю оптимизировать процессы, исследовать новые технологии и писать чистый поддерживаемый код. Всегда открыт к сложным задачам и архитектурным вызовам!
 
-### 🎓 Образование
-- Активно прокачиваюсь на [Stepik](https://stepik.org/users/432813402/profile) (в текущий момент качаю алгоритмы и структуры данных)
-- Получаю бакалавр в ФГБОУ ВО "КГЭУ" по направлению - **"Технология разработки информационных систем и Web-приложений"**
-
 ### 🛠️ Мой технологический стек
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&labelColor=white&logoSize=amg)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-2496ED?logo=fastapi&logoColor=black&labelColor=white&logoSize=amg)
