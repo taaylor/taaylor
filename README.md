@@ -6,8 +6,6 @@ Python Backend Developer.
 
 Отдельно интересуюсь высоконагруженными системами, производительностью и AI-инфраструктурой. Есть опыт интеграции LLM, построения AI-пайплайнов, работы с контекстом диалогов и асинхронной обработкой задач.
 
-### Technologies
-
 #### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
